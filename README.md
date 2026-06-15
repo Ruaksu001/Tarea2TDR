@@ -1,4 +1,4 @@
-# Tarea 2 — Análisis de Tráfico AMQP sobre ZeroTier
+# Tarea 2 —
 
 > Taller de Redes y Servicios · Universidad Diego Portales · Semestre 2026-1
 
