@@ -1,5 +1,6 @@
-# Tarea 2 
-link video-> https://youtu.be/mAZLMaACt_s
+# Tarea 2/3
+link video tarea 2 -> https://youtu.be/mAZLMaACt_s
+link video tarea 3 -> https://youtu.be/iaBkwlvFP_o
 > Taller de Redes y Servicios · Universidad Diego Portales · Semestre 2026-1
 
 Despliegue y análisis de una arquitectura de mensajería **AMQP 0-9-1** entre dos máquinas
